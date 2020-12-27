@@ -14,6 +14,7 @@ export class EmployeeService {
     email: new FormControl(''),
     mobile: new FormControl(''),
     city: new FormControl(''),
+    department: new FormControl(''),
     gender: new FormControl(''),
     hireDate: new FormControl(''),
     isPermanent:new FormControl('')
